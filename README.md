@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="left">
+   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ahhyunii&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/ahhyunii"
+      width="600"
+      height="300"
+    />
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ahhyunii&show_icons=true&theme=rose" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhyunii"/>
+  
+</div>
 
-<!--
-**ahhyunii/ahhyunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Tech Stack</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java?style=for-the-badge&logo=Java&logoColor=FFDCDC" />&nbsp
+  <img src="https://img.shields.io/badge/C?style=for-the-badge&logo=C&logoColor=FFF2EB" />&nbsp
+  <img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=FFE8CD" />&nbsp
+</div>
