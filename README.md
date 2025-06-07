@@ -6,14 +6,15 @@
       height="300"
     />
   </a>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ahhyunii&show_icons=true&theme=rose" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhyunii"/>
-  
 </div>
 
+<div align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=ahhyunii&show_icons=true&theme=rose" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhyunii"/>
+</div>
+  
 <h3 align="left">Tech Stack</h3>
-<div align="center">
+<div align=left">
   <img src="https://img.shields.io/badge/Java?style=for-the-badge&logo=Java&logoColor=FFDCDC" />&nbsp
   <img src="https://img.shields.io/badge/C?style=for-the-badge&logo=C&logoColor=FFF2EB" />&nbsp
   <img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=FFE8CD" />&nbsp
